@@ -1,4 +1,4 @@
-<script lang="ts">
+<script>
 import {defineComponent} from "vue";
 import CurrencyCalculator from './components/CurrencyCalculator/CurrencyCalculator.vue';
 import ListExercise from './components/ListExercise/ListExercise.vue';
